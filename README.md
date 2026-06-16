@@ -2,6 +2,8 @@
 
 Modern, responsive portfolio website built with Flutter.
 
+**Live Demo:** [ferasqaq-dev.github.io/portfolio_app](https://ferasqaq-dev.github.io/portfolio_app/)
+
 ## Features
 
 - 🌓 Dark/Light Mode
